@@ -9,7 +9,6 @@
   <a href="https://www.curieuxacademicjournal.com/_files/ugd/99711c_f7a0283271614b78b49164adbc9d7143.pdf"><img src="https://img.shields.io/badge/Published-Curieux%20Issue%2055-2F4858?style=flat-square" alt="Published paper"></a>
   <a href="https://www.instructables.com/member/emilycanhelp"><img src="https://img.shields.io/badge/Instructables-37%20projects-FAB306?style=flat-square&logo=instructables&logoColor=white" alt="Instructables"></a>
 </p>
----
 
 <p align="center">
   <picture>
